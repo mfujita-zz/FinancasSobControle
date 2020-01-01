@@ -365,7 +365,7 @@ namespace FinancasSobControle
                     cbEspecificacao.Items.Add("Combustível");
                     cbEspecificacao.Items.Add("Seguro particular");
                     cbEspecificacao.Items.Add("Manutenção");
-                    cbClassificacao.Items.Add("Mobilidade");
+                    cbEspecificacao.Items.Add("Mobilidade");
                     cbEspecificacao.Items.Add("Vistoria");
                     break;
                 case "Tributos":
