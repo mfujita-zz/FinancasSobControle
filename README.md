@@ -1,1 +1,1 @@
-![My card](C:\myHD\avell\projetosCsharp\Financasrepository-open-graph-template.png)
+![My card](https://github.com/mfujita/FinancasSobControle/blob/master/repository-open-graph-template.png)
