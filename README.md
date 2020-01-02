@@ -1,1 +1,1 @@
-![Optional Text](repository-open-graph-template.png?raw=true "Title")
+![My card](./repository-open-graph-template.png?raw=true "Finanças Sob Controle")
