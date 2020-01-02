@@ -1,1 +1,1 @@
-#Finanças sob controle
+![Screenshot](repository-open-graph-template.png)
