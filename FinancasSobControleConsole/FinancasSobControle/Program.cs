@@ -12,7 +12,7 @@ namespace FinancasSobControle
         {
             string[] leituraDados;
 //            leituraDados = File.ReadAllLines(args[0]);//("2016.txt");
-            leituraDados = File.ReadAllLines(@"C:\myHD\avell\projetosCsharp\FinancasSobControle\FinancasSobControle\bin\Debug\ControleFinanceiro.txt");
+            leituraDados = File.ReadAllLines(@"C:\myHD\avell\projetosCsharp\Financas\FinancasSobControle\FinancasSobControle\bin\Debug\ControleFinanceiro.txt");
 
             DateTime data;
             string descricao; 
